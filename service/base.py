@@ -36,22 +36,12 @@ class Vacancy:
         return (self.salary_min + self.salary_max) / 2 <= (other.salary_min + other.salary_max) / 2
 
     def to_dict(self):
+        """Метод для преобразования элементов класса в dict"""
         return {
             'title': self.title,
-            'salary_max': self.salary_max,
-            'salary_min': self.salary_min,
+            'salary_max': self.salary_max or 0,
+            'salary_min': self.salary_min or 0,
             'employer': self.employer,
             'link': self.link,
             'source': self.source,
         }
-
-    @staticmethod
-    def get_convertation(salary_min, salary_max):
-        """Метод для конвертации иностранной валюты в Рубли"""
-        salary_min = 0
-        salary_max = 0
-        if salary_min:
-            salary_min = int(salary_min) * 83
-        if salary_max:
-            salary_max = int(salary_max) * 83
-        return salary_min, salary_max

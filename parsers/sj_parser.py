@@ -44,7 +44,3 @@ class SJParser(Parser):
         if response.status_code == 200:
             return self.parse(response.json())
         return []
-#
-#
-# s = SJParser()
-# print(s.get_vacations())

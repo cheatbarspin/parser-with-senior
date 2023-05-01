@@ -79,11 +79,18 @@ class Service:
         with open('db.json', 'r') as f:
             raw_data = f.read()
             data = json.loads(raw_data)
+            research = []
+            found = False
             for el in data:
                 if vacation_name in el['title']:
-                    print(el)
+                    research.append(el)
+                    found = True
+            if found:
+                [print(i) for i in research]
             else:
-                print("У нас нету таких данных, обновите данные")
+                print('not found')
+
+        if not found: print('Данные не обнаружены, попробуйте обновить')
 
     #
     def find_by_salary(self, salary: int):
@@ -93,6 +100,8 @@ class Service:
             data = json.loads(raw_data)
             research = []
             for el in data:
-                if el['salary_min'] >= salary:
+                salary_from_db = el['salary_max'] if el['salary_max'] is not None else \
+                    el['salary_min'] if el['salary_min'] is not None else 0
+                if salary_from_db <= salary:
                     research.append(el)
-            print(research)
+            [print(i) for i in research]

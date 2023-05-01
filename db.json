@@ -1,10 +1,10 @@
 [
     {
-        "title": "Специалист службы поддержки с техническими знаниями (Браузер)",
+        "title": "Специалист службы поддержки с техническими знаниями / Волкер",
         "salary_max": 0,
         "salary_min": 15000,
         "employer": "Яндекс",
-        "link": "https://cherepovets.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820613.html",
+        "link": "https://abakan.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817504.html",
         "source": "Super Job"
     },
     {
@@ -16,19 +16,27 @@
         "source": "Super Job"
     },
     {
-        "title": "Менеджер по работе с клиентами",
-        "salary_max": 45000,
-        "salary_min": 30000,
-        "employer": "Ростелеком",
-        "link": "https://perm.superjob.ru/vakansii/menedzher-po-rabote-s-klientami-44458424.html",
+        "title": "Программист 1C",
+        "salary_max": 0,
+        "salary_min": 40065,
+        "employer": "ГБПОУ Департамента Здравоохранения Города Москвы Медицинский Колледж № 7",
+        "link": "https://www.superjob.ru/vakansii/programmist-1c-44933587.html",
         "source": "Super Job"
     },
     {
-        "title": "Главный специалист Отдела программой эксплуатации",
+        "title": "Оператор call-центра",
+        "salary_max": 45000,
+        "salary_min": 30000,
+        "employer": "Ростелеком",
+        "link": "https://perm.superjob.ru/vakansii/operator-call-centra-44275930.html",
+        "source": "Super Job"
+    },
+    {
+        "title": "Младший научный сотрудник",
         "salary_max": 0,
-        "salary_min": 50000,
-        "employer": "МИЦ ПФР",
-        "link": "https://izhevsk.superjob.ru/vakansii/glavnyj-specialist-otdela-programmoj-ekspluatacii-43163788.html",
+        "salary_min": 0,
+        "employer": "НИЦ “Курчатовский институт” ПИЯФ",
+        "link": "https://gatchina.superjob.ru/vakansii/mladshij-nauchnyj-sotrudnik-45630898.html",
         "source": "Super Job"
     },
     {
@@ -48,14 +56,6 @@
         "source": "Super Job"
     },
     {
-        "title": "Инженер-программист (МИС Самсон)",
-        "salary_max": 60000,
-        "salary_min": 50000,
-        "employer": "СПб ГБУЗ Городская поликлиника № 38",
-        "link": "https://spb.superjob.ru/vakansii/inzhener-programmist-45317963.html",
-        "source": "Super Job"
-    },
-    {
         "title": "Инженер-программист (беспилотные автомобили)",
         "salary_max": 0,
         "salary_min": 40000,
@@ -72,11 +72,27 @@
         "source": "Super Job"
     },
     {
+        "title": "Data Scientist",
+        "salary_max": 0,
+        "salary_min": 0,
+        "employer": "Спортмастер",
+        "link": "https://www.superjob.ru/vakansii/data-scientist-46185192.html",
+        "source": "Super Job"
+    },
+    {
         "title": "Педагог дополнительного образования (робототехника)",
         "salary_max": 0,
         "salary_min": 0,
         "employer": "ГБОУ СОШ № 134",
         "link": "https://spb.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-46234726.html",
+        "source": "Super Job"
+    },
+    {
+        "title": "Программист-разработчик Golang",
+        "salary_max": 140000,
+        "salary_min": 60000,
+        "employer": "НИИ \"Спецвузавтоматика\"",
+        "link": "https://rnd.superjob.ru/vakansii/programmist-razrabotchik-golang-46245010.html",
         "source": "Super Job"
     },
     {
@@ -112,19 +128,19 @@
         "source": "Super Job"
     },
     {
-        "title": "Инженер-программист",
+        "title": "Учитель информатики",
         "salary_max": 0,
-        "salary_min": 125000,
-        "employer": "АРП-ДИЗАЙН",
-        "link": "https://www.superjob.ru/vakansii/inzhener-programmist-45695694.html",
+        "salary_min": 65000,
+        "employer": "ГБОУ Школа 575 Приморского района г. Санкт Петербург",
+        "link": "https://spb.superjob.ru/vakansii/uchitel-informatiki-37923007.html",
         "source": "Super Job"
     },
     {
-        "title": "Ведущий инженер отдела наукометрического анализа",
+        "title": "Ведущий инженер",
         "salary_max": 0,
         "salary_min": 60000,
         "employer": "Санкт-Петербургский горный университет",
-        "link": "https://spb.superjob.ru/vakansii/veduschij-inzhener-otdela-naukometricheskogo-analiza-46009289.html",
+        "link": "https://spb.superjob.ru/vakansii/veduschij-inzhener-46009011.html",
         "source": "Super Job"
     },
     {
@@ -133,22 +149,6 @@
         "salary_min": 0,
         "employer": "НИФИ МИНФИНА РОССИИ",
         "link": "https://www.superjob.ru/vakansii/finansovyj-analitik-ekonomist-46129003.html",
-        "source": "Super Job"
-    },
-    {
-        "title": "Системный администратор Linux",
-        "salary_max": 0,
-        "salary_min": 0,
-        "employer": "Драйв Клик Банк",
-        "link": "https://www.superjob.ru/vakansii/sistemnyj-administrator-linux-46176568.html",
-        "source": "Super Job"
-    },
-    {
-        "title": "Middle Data / ML Engineer (Автокоммуникации)",
-        "salary_max": 0,
-        "salary_min": 0,
-        "employer": "Спортмастер",
-        "link": "https://www.superjob.ru/vakansii/middle-data-46189776.html",
         "source": "Super Job"
     },
     {
@@ -162,17 +162,9 @@
     {
         "title": "Intern / Junior Python backend developer",
         "salary_max": 60000,
-        "salary_min": null,
+        "salary_min": 0,
         "employer": "Рекруто",
         "link": "https://hh.ru/vacancy/79681180",
-        "source": "HeadHunter"
-    },
-    {
-        "title": "Python разработчик",
-        "salary_max": 250000,
-        "salary_min": null,
-        "employer": "Kvando Technologies",
-        "link": "https://hh.ru/vacancy/79742922",
         "source": "HeadHunter"
     },
     {
@@ -184,8 +176,24 @@
         "source": "HeadHunter"
     },
     {
+        "title": "Python разработчик",
+        "salary_max": 250000,
+        "salary_min": 0,
+        "employer": "Kvando Technologies",
+        "link": "https://hh.ru/vacancy/79742922",
+        "source": "HeadHunter"
+    },
+    {
+        "title": "Python-разработчик (Junior)",
+        "salary_max": 70000,
+        "salary_min": 50000,
+        "employer": "Щербин Алексей Сергеевич",
+        "link": "https://hh.ru/vacancy/79663730",
+        "source": "HeadHunter"
+    },
+    {
         "title": "Junior Программист/Разработчик Python",
-        "salary_max": null,
+        "salary_max": 0,
         "salary_min": 60000,
         "employer": "Телеком-Инжиниринг",
         "link": "https://hh.ru/vacancy/78968578",
@@ -200,19 +208,27 @@
         "source": "HeadHunter"
     },
     {
-        "title": "Разработчик Python",
-        "salary_max": 350000,
-        "salary_min": 200000,
-        "employer": "Кадровый центр Президент",
-        "link": "https://hh.ru/vacancy/79917370",
+        "title": "Junior Back-end Python/Django разработчик",
+        "salary_max": 100000,
+        "salary_min": 90,
+        "employer": "Mind&Machine",
+        "link": "https://hh.ru/vacancy/79482696",
         "source": "HeadHunter"
     },
     {
         "title": "Python backend developer",
         "salary_max": 270000,
-        "salary_min": null,
+        "salary_min": 0,
         "employer": "evrone.ru",
         "link": "https://hh.ru/vacancy/79914110",
+        "source": "HeadHunter"
+    },
+    {
+        "title": "Разработчик Python",
+        "salary_max": 350000,
+        "salary_min": 200000,
+        "employer": "Кадровый центр Президент",
+        "link": "https://hh.ru/vacancy/79917370",
         "source": "HeadHunter"
     },
     {
@@ -224,27 +240,11 @@
         "source": "HeadHunter"
     },
     {
-        "title": "Junior Back-end Python/Django разработчик",
-        "salary_max": 100000,
-        "salary_min": 90,
-        "employer": "Mind&Machine",
-        "link": "https://hh.ru/vacancy/79482696",
-        "source": "HeadHunter"
-    },
-    {
         "title": "Python-разработчик",
         "salary_max": 450000,
-        "salary_min": null,
+        "salary_min": 0,
         "employer": "Точка",
         "link": "https://hh.ru/vacancy/79934252",
-        "source": "HeadHunter"
-    },
-    {
-        "title": "Python-разработчик (Django)",
-        "salary_max": null,
-        "salary_min": 230000,
-        "employer": "Российское общество Знание",
-        "link": "https://hh.ru/vacancy/79824429",
         "source": "HeadHunter"
     },
     {
@@ -256,6 +256,14 @@
         "source": "HeadHunter"
     },
     {
+        "title": "Python-разработчик (Django)",
+        "salary_max": 0,
+        "salary_min": 230000,
+        "employer": "Российское общество Знание",
+        "link": "https://hh.ru/vacancy/79824429",
+        "source": "HeadHunter"
+    },
+    {
         "title": "Python-developer",
         "salary_max": 220000,
         "salary_min": 150000,
@@ -264,19 +272,11 @@
         "source": "HeadHunter"
     },
     {
-        "title": "Middle Python developer (Казань)",
-        "salary_max": 250000,
-        "salary_min": 150000,
-        "employer": "Колл-Тулз",
-        "link": "https://hh.ru/vacancy/79828667",
-        "source": "HeadHunter"
-    },
-    {
-        "title": "Middle Python-разработчик",
-        "salary_max": 250000,
-        "salary_min": 140000,
-        "employer": "AERODISK",
-        "link": "https://hh.ru/vacancy/79382076",
+        "title": "Стажер (программист), С++/Java/Python/GO/ML/BigData",
+        "salary_max": 80000,
+        "salary_min": 40000,
+        "employer": "Орешонок Анастасия Сергеевна",
+        "link": "https://hh.ru/vacancy/79928324",
         "source": "HeadHunter"
     }
 ]
